@@ -57,7 +57,7 @@ Since the scope of the project will be highly dependent on the data, these two t
 * Step 5: Answare the question
 
 ## Strategy ##
-![ERD Model](Images/ER.PNG)
+![ERD Model](Images/ER.png)
 
 # DEND Capstone
 
